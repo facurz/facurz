@@ -1,4 +1,4 @@
-## 👋 console.info("Hello Wonderful World");
+## Facundo Riva Zabala | Web Developer
 Soy Estudiante de la carrera de Desarrollo Frontend React en CoderHouse. 
 
 Actualmente tengo conocimientos en:
