@@ -1,15 +1,26 @@
-## Facundo Riva Zabala | Web Developer
-Soy Estudiante de la carrera de Desarrollo Frontend React en CoderHouse. 
+# console.log(:mega:'Hello World !')
+Actualmente estoy estudiando la carrera de Desarrollo Frontend React en CoderHouse. 
+Estoy en la búsqueda de nuevos desafíos dentro de una empresa donde pueda aportar valor e incorporar nuevos conocimientos para continuar creciendo en el plano profesional .
 
-Actualmente tengo conocimientos en:
+:e-mail: facurz@hotmail.com | facurz@gmail.com
+
+:link: Linkedin: https://www.linkedin.com/in/facundo-riva-desarrollo-web/
+
+:link: Portfolio: https://garciaequipamientos.000webhostapp.com/
+
+* I'm living in Rosario, Santa Fe, Argentina -
+
+## :desktop_computer: WEB DEVELOPER
+
+
 * HTML5
 * CSS
- * Responsive Design
- * Flexbox & Grid
- * Preprocesadores: Sass
-* Bootstrap 
-* Git & Github
-* Javascript 
-  *Jquery
+  * Responsive Design
+  * Flexbox & Grid
+  * Sass
+* BOOTSTRAP 
+* GIT & GITHUB
+* JAVASCRIPT 
+  * Jquery
 
-Amplia experiencia de trabajo en equipo. Capacidad de resolución de problemas y adquisición de conocimientos.
+
