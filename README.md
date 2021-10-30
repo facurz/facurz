@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://static-exp1.licdn.com/scds/common/u/images/promo/ads/ad_17x700_transparent.png" width="350" title="web-developer">
-</p>
 # console.log(:mega:'Hello World !')
 Actualmente estoy estudiando la carrera de Desarrollo Frontend React en CoderHouse. 
 Estoy en la búsqueda de nuevos desafíos dentro de una empresa donde pueda aportar valor e incorporar nuevos conocimientos para continuar creciendo en el plano profesional .
