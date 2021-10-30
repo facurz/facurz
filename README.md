@@ -8,7 +8,7 @@ Estoy en la búsqueda de nuevos desafíos dentro de una empresa donde pueda apor
 
 :link: Portfolio: https://garciaequipamientos.000webhostapp.com/
 
-* I'm living in Rosario, Santa Fe, Argentina -
+
 
 ## :desktop_computer: WEB DEVELOPER
 
