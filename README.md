@@ -7,7 +7,9 @@ Estoy en la búsqueda de nuevos desafíos dentro de una empresa donde pueda apor
 
 :link: Linkedin: https://www.linkedin.com/in/facundo-riva-desarrollo-web/
 
-:link: Portfolio: https://garciaequipamientos.000webhostapp.com/
+:link: Portfolio: 
+ * https://garciaequipamientos.000webhostapp.com/
+ * https://bariloche-outdoor.netlify.app/
 
 
 
