@@ -13,7 +13,7 @@ Estoy en la búsqueda de nuevos desafíos dentro de una empresa donde pueda apor
 
 
 
-## :desktop_computer: WEB DEVELOPER
+## :desktop_computer: FRONTEND DEVELOPER
 
 
 * HTML5
