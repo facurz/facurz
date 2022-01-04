@@ -18,12 +18,10 @@ Estoy en la búsqueda de nuevos desafíos dentro de una empresa donde pueda apor
 
 * HTML5
 * CSS
-  * Responsive Design
-  * Flexbox & Grid
-  * Sass
+* SAAS  
 * BOOTSTRAP 
+* JAVASCRIPT
+* REACT JS
 * GIT & GITHUB
-* JAVASCRIPT 
-  * Jquery
 
 
