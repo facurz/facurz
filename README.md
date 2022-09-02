@@ -5,7 +5,7 @@ Estoy en la búsqueda de nuevos desafíos dentro de una empresa donde pueda apor
 
 :e-mail: facurz@hotmail.com | facurz@gmail.com
 
-:link: Linkedin: https://www.linkedin.com/in/facurz-desarrollo-web/
+:link: Linkedin: https://www.linkedin.com/in/facurz/
 
 :link: Portfolio: 
  * https://facurz.github.io/Proyecto-GarciaEquipamientos/
@@ -20,8 +20,11 @@ Estoy en la búsqueda de nuevos desafíos dentro de una empresa donde pueda apor
 * CSS
 * SAAS  
 * BOOTSTRAP 
+* MATERIAL UI
 * JAVASCRIPT
 * REACT JS
 * GIT & GITHUB
+* FIGMA
+* FIREBASE
 
 
