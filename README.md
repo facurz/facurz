@@ -1,4 +1,4 @@
-# ![alt tag](https://media-exp1.licdn.com/dms/image/C4E16AQH7b5qf_PXaTQ/profile-displaybackgroundimage-shrink_350_1400/0/1635605370178?e=1652918400&v=beta&t=HyHJRzZTvcCje5u9hg-KuBAVO-xMc2sK0HV5ZAwkbP0)
+# ![alt tag](https://media-exp1.licdn.com/dms/image/C4D16AQGiOIOitIz4zw/profile-displaybackgroundimage-shrink_200_800/0/1660151042827?e=1667433600&v=beta&t=cnh4kc1PR1QQDHDhYQBW4-furadxc7cxhsi3ahFNXCM)
 
 Actualmente estoy estudiando la carrera de Desarrollo Frontend React en CoderHouse. 
 Estoy en la búsqueda de nuevos desafíos dentro de una empresa donde pueda aportar valor e incorporar nuevos conocimientos para continuar creciendo en el plano profesional .
