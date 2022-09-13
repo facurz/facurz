@@ -19,9 +19,9 @@
 
 :link: Linkedin: https://www.linkedin.com/in/facurz/
 
-## :wrench: Les invito a ver mis trabajos: 
+## :wrench: Invito a ver mis trabajos: 
  * https://facurz.github.io/Garcia-Equipamientos/ (Html, Sass, Javascript. Es mi primera app y la publico para evaluar mi progreso.)
- * https://bariloche-outdoor.netlify.app/ (React Js, Bootstrap, Firebase.)
+ * https://bariloche-outdoor.netlify.app/ (React Js, Bootstrap, Firebase.) - [view code](https://github.com/facurz/Bariloche-outDoor)
 
 
 
