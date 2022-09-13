@@ -1,4 +1,4 @@
-## :desktop_computer: Desarrollador Frontend - Jr. | React Js
+# :desktop_computer: Desarrollador Frontend - Jr. | React Js
 
 
 
@@ -19,7 +19,7 @@
 
 :link: Linkedin: https://www.linkedin.com/in/facurz/
 
-:link: Portfolio: 
+## :wrench: Les invito a ver mis trabajos: 
  * https://facurz.github.io/Garcia-Equipamientos/ (Html, Sass, Javascript. Es mi primera app y la publico para evaluar mi progreso.)
  * https://bariloche-outdoor.netlify.app/ (React Js, Bootstrap, Firebase.)
 
