@@ -20,7 +20,7 @@
 :link: Linkedin: https://www.linkedin.com/in/facurz/
 
 ## :wrench: Mi aprendizaje en trabajos: 
- * https://facurz.github.io/Garcia-Equipamientos/ (Html, Css, Javascript. Es mi primera app y la publico para evaluar mi progreso.) - [view code](https://github.com/facurz/Garcia-Equipamientos)
+ * https://facurz.github.io/Garcia-Equipamientos/ (Es mi primera app y la publico para evaluar mi progreso - Html, Css, Javascript) - [view code](https://github.com/facurz/Garcia-Equipamientos)
  * https://bariloche-outdoor.netlify.app/ (React, Bootstrap, Firebase.) - [view code](https://github.com/facurz/Bariloche-outDoor)
 
 
