@@ -20,8 +20,8 @@
 :link: Linkedin: https://www.linkedin.com/in/facurz/
 
 :link: Portfolio: 
- * https://facurz.github.io/Proyecto-GarciaEquipamientos/ (es mi primera app y la publico para evaluar mi progreso)
- * https://bariloche-outdoor.netlify.app/
+ * https://facurz.github.io/Garcia-Equipamientos/ (Html, Sass, Javascript. Es mi primera app y la publico para evaluar mi progreso.)
+ * https://bariloche-outdoor.netlify.app/ (React Js, FireBase, Bootstrap)
 
 
 
