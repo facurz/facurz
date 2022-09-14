@@ -15,7 +15,7 @@
 ✔️​ Git & GitHub
 ✔️​​ Firebase
 
-:e-mail: facurz@hotmail.com | facurz@gmail.com
+:e-mail: facurz@hotmail.com
 
 :link: Linkedin: https://www.linkedin.com/in/facurz/
 
