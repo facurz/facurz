@@ -19,7 +19,7 @@
 
 :link: Linkedin: https://www.linkedin.com/in/facurz/
 
-## :wrench: Mi aprendizaje en trabajos: 
+## :wrench: Mis Proyectos: 
  
  * https://bariloche-outdoor.netlify.app/ (React, Bootstrap, Firebase.) - [view code](https://github.com/facurz/Bariloche-outDoor)
  * https://facurz.github.io/Giff-app/ (React, Jest & Testing Library) - [view code](https://github.com/facurz/Giff-app)
