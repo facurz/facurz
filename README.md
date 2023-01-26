@@ -7,12 +7,13 @@
 💻​ Mi formación es Desarrollador FrontEnd React y tengo experiencia utilizando las siguientes tecnologías:
 
 ✔️​​ Html & Css
-✔️​ Sass
-✔️​​ Bootsrap & Material UI
-✔️​ Figma
+✔️​​ Sass
+✔️​​ Tailwind & Material UI
 ✔️​​ Javascript
+✔️​​ Typescript
 ✔️​​ React Js
-✔️​ Git & GitHub
+✔️​​ Next Js
+✔️​​ Git & GitHub
 ✔️​​ Firebase
 
 :e-mail: facurz@hotmail.com
