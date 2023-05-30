@@ -22,6 +22,7 @@
 
 ## :wrench: Mis Proyectos: 
  
+ * https://bariloche-outdoor.netlify.app/ (React, Bootstrap, Firebase) - - [view code](https://github.com/facurz/Giff-app)
  * https://facurz.github.io/Giff-app/ (React, Jest & Testing Library) - [view code](https://github.com/facurz/Giff-app)
  * https://t4-heroes-app.vercel.app/ (React, MUI, Firebase) - [view code](https://github.com/facurz/T4-HeroesApp)
  * https://videotecapp.netlify.app/ (React, MUI, Redux, Firebase) - [view code](https://github.com/facurz/Videotecapp)
